@@ -1,0 +1,9 @@
+﻿  text.c
+F:\gitee\learn\Project14\Project14\text.c(18,12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\gitee\learn\Project14\Project14\text.c(19,14): warning C4305: “=”: 从“double”到“float”截断
+F:\gitee\learn\Project14\Project14\text.c(19,33): warning C4305: “-=”: 从“double”到“float”截断
+F:\gitee\learn\Project14\Project14\text.c(21,31): warning C4305: “+=”: 从“double”到“float”截断
+F:\gitee\learn\Project14\Project14\text.c(67,15): warning C4305: “=”: 从“double”到“float”截断
+F:\gitee\learn\Project14\Project14\text.c(67,34): warning C4305: “-=”: 从“double”到“float”截断
+F:\gitee\learn\Project14\Project14\text.c(69,32): warning C4305: “+=”: 从“double”到“float”截断
+  Project14.vcxproj -> F:\gitee\learn\Project14\x64\Debug\Project14.exe
