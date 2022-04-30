@@ -1,0 +1,6 @@
+﻿  strstr.c
+F:\gitee\learn\Qianfeng-c10\Qianfeng-c10\strstr.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+F:\gitee\learn\Qianfeng-c10\Qianfeng-c10\strstr.c(10,9): message : 请考虑在格式字符串中使用“%lld”
+F:\gitee\learn\Qianfeng-c10\Qianfeng-c10\strstr.c(10,9): message : 请考虑在格式字符串中使用“%Id”
+F:\gitee\learn\Qianfeng-c10\Qianfeng-c10\strstr.c(10,9): message : 请考虑在格式字符串中使用“%I64d”
+  Qianfeng-c10.vcxproj -> F:\gitee\learn\Qianfeng-c10\x64\Debug\Qianfeng-c10.exe

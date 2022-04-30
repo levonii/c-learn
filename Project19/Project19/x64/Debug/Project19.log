@@ -1,0 +1,4 @@
+﻿  text.c
+F:\gitee\learn\Project19\Project19\text.c(18,10): warning C4098: “myfun1”:“void”函数返回值
+F:\gitee\learn\Project19\Project19\text.c(26,12): warning C4098: “myfun2”:“void”函数返回值
+  Project19.vcxproj -> F:\gitee\learn\Project19\x64\Debug\Project19.exe

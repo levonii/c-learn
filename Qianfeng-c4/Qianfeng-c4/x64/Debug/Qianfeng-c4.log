@@ -1,0 +1,2 @@
+﻿  type.c
+D:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.32.31326\include\yvals_core.h(23,1): fatal error C1189: #error:  STL1003: Unexpected compiler, expected C++ compiler.

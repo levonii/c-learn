@@ -1,0 +1,4 @@
+﻿  atoi_atol_atof.c
+F:\gitee\learn\Qianfeng-c12\Qianfeng-c12\atoi_atol_atof.c(13,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+F:\gitee\learn\Qianfeng-c12\Qianfeng-c12\atoi_atol_atof.c(13,9): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  Qianfeng-c12.vcxproj -> F:\gitee\learn\Qianfeng-c12\x64\Debug\Qianfeng-c12.exe
