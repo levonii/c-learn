@@ -1,0 +1,3 @@
+﻿  sscanf2.c
+F:\gitee\learn\sscanf-2\sscanf-2\sscanf2.c(4,30): warning C4081: 应输入“newline”；找到“;”
+  sscanf-2.vcxproj -> F:\gitee\learn\sscanf-2\x64\Debug\sscanf-2.exe
