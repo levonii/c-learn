@@ -1,0 +1,6 @@
+﻿  const.c
+F:\gitee\learn\const\const\const.c(13,10): warning C4098: “new”:“void”函数返回值
+F:\gitee\learn\const\const\const.c(20,2): warning C4013: “strcpy”未定义；假设外部返回 int
+F:\gitee\learn\const\const\const.c(22,10): warning C4098: “pointer”:“void”函数返回值
+F:\gitee\learn\const\const\const.c(29,10): warning C4098: “pointer1”:“void”函数返回值
+  const.vcxproj -> F:\gitee\learn\const\x64\Debug\const.exe
