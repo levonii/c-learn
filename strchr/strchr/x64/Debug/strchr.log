@@ -1,0 +1,6 @@
+﻿  exercise.c
+F:\gitee\learn\strchr\strchr\exercise.c(16,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“__int64”
+F:\gitee\learn\strchr\strchr\exercise.c(16,10): message : 请考虑在格式字符串中使用“%lld”
+F:\gitee\learn\strchr\strchr\exercise.c(16,10): message : 请考虑在格式字符串中使用“%Id”
+F:\gitee\learn\strchr\strchr\exercise.c(16,10): message : 请考虑在格式字符串中使用“%I64d”
+  strchr.vcxproj -> F:\gitee\learn\strchr\x64\Debug\strchr.exe
