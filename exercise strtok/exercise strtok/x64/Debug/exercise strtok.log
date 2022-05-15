@@ -1,0 +1,4 @@
+﻿  strtok.c
+F:\gitee\learn\exercise strtok\exercise strtok\strtok.c(4,9): warning C4615: #pragma warning: 未知的用户警告类型
+F:\gitee\learn\exercise strtok\exercise strtok\strtok.c(22,10): warning C4101: “i”: 未引用的局部变量
+  exercise strtok.vcxproj -> F:\gitee\learn\exercise strtok\x64\Debug\exercise strtok.exe
