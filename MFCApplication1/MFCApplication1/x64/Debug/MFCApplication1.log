@@ -1,0 +1,2 @@
+﻿  源.c
+F:\gitee\learn\MFCApplication1\MFCApplication1\源.c(4,9): fatal error C1853: “x64\Debug\MFCApplication1.pch”预编译头文件来自编译器的其他版本，或者预编译头为 C++ 而在 C 中使用它(或相反)
