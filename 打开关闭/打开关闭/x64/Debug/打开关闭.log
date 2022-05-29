@@ -1,0 +1,3 @@
+﻿  源.c
+F:\gitee\learn\打开关闭\打开关闭\源.c(18,19): warning C4047: “=”:“FILE *”与“int”的间接级别不同
+  打开关闭.vcxproj -> F:\gitee\learn\打开关闭\x64\Debug\打开关闭.exe
