@@ -1,0 +1,5 @@
+﻿  轰炸.c
+F:\gitee\learn\tencent01\tencent01\轰炸.c(10,45): warning C4020: “SendMessageW”: 实参太多
+轰炸.obj : error LNK2019: 无法解析的外部符号 __imp_SendMessageW，函数 main 中引用了该符号
+轰炸.obj : error LNK2019: 无法解析的外部符号 __imp_FindWindowW，函数 main 中引用了该符号
+F:\gitee\learn\tencent01\x64\Debug\tencent01.exe : fatal error LNK1120: 2 个无法解析的外部命令
